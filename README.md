@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-div align="center">
+<div align="center">
   <h1>🚀 Welcome to My GitHub Universe! 🌌</h1>
   <h3>Graduate Student | Former DCT Developer | AI Researcher</h3>
 </div>
