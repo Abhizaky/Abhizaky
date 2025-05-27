@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <img src = "https://github.com/Abhizaky/Abhizaky/blob/0c7d64df8d83b97eccc995b61818072d0d806cf8/generated-image.png?raw=true" alt="AI/ML Workspace" width="100%" />
 ## 🎯 About Me
 ```
+Python
+
+` ```
 class GraduateStudent:
 def init(self):
 self.name = "ABHISHEK"
@@ -38,7 +41,7 @@ def get_skills(self):
         "industry_experience": "DCT Development"
     }
 
-` ```
+
 ## 🔬 Research Journey
 - 🎓 **Academic Path:** Transitioning from industry to research
 - 🌟 **Goal:** Leveraging ML/AI for scientific breakthroughs
