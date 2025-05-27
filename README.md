@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ## 🎯 About Me
 ```
 Python
-
-` ```
 class GraduateStudent:
 def init(self):
 self.name = "ABHISHEK"
@@ -40,7 +38,7 @@ def get_skills(self):
         "tools": ["Git", "Docker", "Jupyter", "Google Cloud Platform"],
         "industry_experience": "DCT Development"
     }
-
+` ```
 
 ## 🔬 Research Journey
 - 🎓 **Academic Path:** Transitioning from industry to research
