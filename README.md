@@ -22,22 +22,21 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 About Me
+
 class GraduateStudent:
 def init(self):
 self.name = "ABHISHEK"
 self.current_role = "Master's Student in ML & AI"
 self.previous_experience = "DCT Developer"
-self.research_interests = ["Machine Learning", "Artificial Intelligence"]
+self.research_interests = ["Machine Learning", "Artificial Intelligence", "Astrophysics"]
 self.current_focus = "Applying AI to scientific research"
-
 def get_skills(self):
     return {
-        "languages": ["Python", "R", "Java", "C++"],
+        "languages": ["Python", "R","C#"],
         "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
         "tools": ["Git", "Docker", "Jupyter", "Google Cloud Platform"],
         "industry_experience": "DCT Development"
     }
-
     
 ## 🔬 Research Journey
 - 🎓 **Academic Path:** Transitioning from industry to research
