@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<img src = "https://github.com/Abhizaky/Abhizaky/blob/0c7d64df8d83b97eccc995b61818072d0d806cf8/generated-image.png?raw=true" alt="AI/ML Workspace" width="100%" />">
+<img src = "https://github.com/Abhizaky/Abhizaky/blob/0c7d64df8d83b97eccc995b61818072d0d806cf8/generated-image.png?raw=true" alt="AI/ML Workspace" width="100%" />
 ## 🎯 About Me
 
 class GraduateStudent:
