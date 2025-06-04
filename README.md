@@ -7,24 +7,16 @@
 
 ---
 <img src = "https://github.com/Abhizaky/Abhizaky/blob/0c7d64df8d83b97eccc995b61818072d0d806cf8/generated-image.png?raw=true" alt="AI/ML Workspace" width="100%" />
-## 🎯 About Me
-```
-Python
-class GraduateStudent:
-def init(self):
-self.name = "ABHISHEK"
-self.current_role = "Master's Student in ML & AI"
-self.previous_experience = "DCT Developer"
-self.research_interests = ["Machine Learning", "Artificial Intelligence", "Astrophysics"]
-self.current_focus = "Applying AI to scientific research"
-def get_skills(self):
-    return {
-        "languages": ["Python", "R","C#"],
-        "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
-        "tools": ["Git", "Docker", "Jupyter", "Google Cloud Platform"],
-        "industry_experience": "DCT Development"
-    }
-` ```
+## 👋 About Me
+
+Hi, I'm Abhishek!  
+I'm a Senior Product Engineer with 5+ years of experience in insurance technology and product development, currently pursuing an MSc in Artificial Intelligence and Machine Learning at Queen Mary University of London.
+
+- 🔭 I’m currently working on machine learning projects involving climate data and business time series forecasting.
+- 🌱 I’m passionate about leveraging AI to solve real-world problems, especially in the insurance and financial sectors.
+- 💡 Skilled in Python, C#, TensorFlow, Pandas, and Duck Creek.
+- 📫 How to reach me: abhishekptc32@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhishekbharadwaj32/)
+- ⚡ Fun fact: I love volleyball and was a tournament champion at KIIT University!
 
 ## 🔬 Research Journey
 - 🎓 **Academic Path:** Transitioning from industry to research
