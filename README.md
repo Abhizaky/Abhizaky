@@ -29,7 +29,7 @@ I'm a Senior Product Engineer with 5+ years of experience in insurance technolog
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="mailto:abhishekptc32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[your-linkedin-url](https://www.linkedin.com/in/abhishekbharadwaj32/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
