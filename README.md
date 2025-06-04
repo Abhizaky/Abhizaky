@@ -6,7 +6,7 @@
 ---
 <img src = "https://github.com/Abhizaky/Abhizaky/blob/0c7d64df8d83b97eccc995b61818072d0d806cf8/generated-image.png?raw=true" alt="AI/ML Workspace" width="100%" />
 
-## About Me
+## 👋 About Me
 
 Hi, I'm Abhishek!  
 I'm a Senior Product Engineer with 5+ years of experience in insurance technology and product development, currently pursuing an MSc in Artificial Intelligence and Machine Learning at Queen Mary University of London.
