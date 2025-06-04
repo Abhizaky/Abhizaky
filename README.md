@@ -12,7 +12,7 @@ I'm a Senior Product Engineer with 5+ years of experience in insurance technolog
 
 - 🔭 I’m currently working on machine learning projects involving climate data and business time series forecasting.
 - 🌱 I’m passionate about leveraging AI to solve real-world problems, especially in the insurance and financial sectors.
-- 💡 Skilled in Python, C#, TensorFlow, Pandas, and Duck Creek.
+- 💡 Skilled in Python, C#, TensorFlow, Pandas, Scikit and Duck Creek Tool.
 - 📫 How to reach me: abhishekptc32@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhishekbharadwaj32/)
 - ⚡ Fun fact: I love volleyball and was a tournament champion at KIIT University!
 
