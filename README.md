@@ -22,8 +22,6 @@ I'm a Senior Product Engineer with 5+ years of experience in insurance technolog
 - 🌟 **Goal:** Leveraging ML/AI for scientific breakthroughs
 - 📚 **Current Work:** Coursework in advanced ML algorithms and astrophysics applications
 
-## 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 ## 🤝 Let's Connect!
 <p align="center">
